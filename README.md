@@ -1,4 +1,7 @@
-### Hi there 👋
+### Bessean Augusto Dias 👋
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-bessean%cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bessean/)] https://www.linkedin.com/in/bessean/
 
 <!--
 **Bessean/Bessean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
