@@ -1,5 +1,4 @@
-# Hello World!!                                      ![image](https://user-images.githubusercontent.com/55710829/118336763-b52d7680-b4e8-11eb-9c59-c42c83735b82.png)
-## 👩‍💻 I'm Bessean Dias, Welcome  my Profile 👩‍💻 
+# Hello World!! 👩‍💻 I'm Bessean Dias, Welcome  my Profile 👩‍💻 
 
 ### - Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  <img src="https://raw.githubusercontent.com/andreassef/andreassef/master/github/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/andreassef/andreassef/master/github/python.svg" alt="python" style="vertical-align:top; margin:4px">
